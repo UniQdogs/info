@@ -1,37 +1,3 @@
-## Welcome to GitHub Pages
+## Les op maat voor u en uw hond!
 
-You can use the [editor on GitHub](https://github.com/UniQdogs/info/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/UniQdogs/info/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Heeft u zich wel eens afgevraagd waarom onze trouwe viervoeters doen zoals ze doen? Waarom laten honden bepaalde gedragingen zien; trekken aan de lijn, opspringen tegen u of uw bezoek, niet bij u komen terwijl u ze roept? Zoekt u hulp bij het opvoeden van uw hond? Wilt u dit op een positieve manier doen, zonder gebruik van correctiematerialen? Wilt u een gediplomeerde instructeur die het welzijn van uw hond op de eerste plaats zet en les geeft anno 2018? Dan bent u bij mij aan het goede adres. Ik help u graag bij de opvoeding van uw (jonge)hond, waarbij ik u inzicht geef in zijn gedrag zodat u hem beter leert begrijpen en daardoor een hele goede relatie en samenwerking kan opbouwen met uw hond!
