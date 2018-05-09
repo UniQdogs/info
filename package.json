@@ -1,0 +1,9 @@
+{
+  "name": "uniqdogs",
+  "version": "1.0.0",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "live-server": "^1.2.0"
+  }
+}
