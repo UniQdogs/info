@@ -1,6 +1,8 @@
 #primary-header {
-    background-color: rgba($header-primary, $overlay-background-opacity / 100%);
-    padding: 40px 0 10px 0;
+    div {
+        padding: 40px 0 10px 0;
+        background-color: rgba($header-primary, $overlay-background-opacity / 100%);
+    }
 
     h1, h2 {
         font-family: 'Tangerine', cursive;
@@ -35,14 +37,14 @@
             transition-duration: 0.4s, 0.2s;
         }
     }
-}
 
-#primary-header-diagonal {
-    height: 100px;
-    position: absolute;
-    width: 100%;
-    
-    > path {
-        fill: rgba($header-primary, $overlay-background-opacity / 100%);
+    > svg {
+        height: 100px;
+        position: absolute;
+        width: 100%;
+        
+        > path {
+            fill: rgba($header-primary, $overlay-background-opacity / 100%);
+        }
     }
 }

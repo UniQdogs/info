@@ -2,7 +2,23 @@
 @import "background-cover";
 @import "header";
 @import "article";
+@import "footer";
+
+html {
+    overflow-y: scroll;
+}
 
 svg {
     display: block;
+}
+
+#wrapper {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    min-height: 100vh;
+}
+
+main {
+    margin-bottom: -100px;
 }
