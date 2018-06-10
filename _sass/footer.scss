@@ -1,0 +1,30 @@
+#primary-footer {
+    > svg {
+        height: 100px;
+        width: 100%;
+        
+        > path {
+            fill: rgba($footer-primary, $overlay-background-opacity / 100%);
+        }
+    }
+
+    > div {
+        height: 100px;
+        display: block;
+        background-color: rgba($footer-primary, $overlay-background-opacity / 100%);
+    }
+
+    #credentials {
+        width: 340px;
+        line-height: 1.3em;
+        margin: 0 auto;
+    }
+}
+
+body {
+    background-color: rgba($footer-primary, $overlay-background-opacity / 100%)
+}
+
+#footer-spacer {
+    flex-grow: 1;
+}
