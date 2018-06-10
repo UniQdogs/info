@@ -1,0 +1,28 @@
+article {
+    overflow: hidden;
+    background-color: rgba($content-primary, $overlay-background-opacity / 100%);
+    margin: 100px auto;
+    padding-bottom: 0.7em;
+
+    @media only screen and (min-width: 2001px) {
+        width: 1200px;
+    }
+    @media only screen and (min-width: 900px) and (max-width: 2000px) {
+        width: 900px;
+    }
+    @media only screen and (max-width: 899px) {
+        width: 100%;
+    }
+
+    h1 {
+        font-size: 2.8em;
+        color: $accent;
+        margin: 0.75em;
+    }
+
+    p {
+        font-size: 1.4em;
+        margin: 1em 1.5em;
+        line-height: 1.5em;
+    }
+}

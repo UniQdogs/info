@@ -1,0 +1,48 @@
+#primary-header {
+    background-color: rgba($header-primary, $overlay-background-opacity / 100%);
+    padding: 40px 0 10px 0;
+
+    h1, h2 {
+        font-family: 'Tangerine', cursive;
+        text-align: center;
+        font-weight: bold;
+    }
+    h1 {
+        font-size: 4em;
+    }
+    h2 {
+        font-size: 2em;
+    }
+
+    nav {
+        display: flex;
+        justify-content: center;
+        margin-top: 10px;
+        font-weight: bold;
+    }
+    a {
+        padding: 0.9em;
+        text-decoration: none;
+        color: $accent;
+        background-color: transparent;
+        height: 3em;
+        transition-property: color, background-color;
+        transition-duration: 1.2s, 0.6s;
+
+        &:hover {
+            color: black;
+            background-color: mix(white, $accent, 90%);
+            transition-duration: 0.4s, 0.2s;
+        }
+    }
+}
+
+#primary-header-diagonal {
+    height: 100px;
+    position: absolute;
+    width: 100%;
+    
+    > path {
+        fill: rgba($header-primary, $overlay-background-opacity / 100%);
+    }
+}

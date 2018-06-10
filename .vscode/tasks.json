@@ -1,0 +1,23 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "start http server",
+            "type": "shell",
+            "command": "./../node_modules/.bin/live-server --port=8080 --host=localhost --wait=0",
+            "options": {
+                "cwd": "_site"
+            },
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "presentation": {
+                "echo": true,
+                "reveal": "always",
+                "focus": false,
+                "panel": "dedicated"
+            }
+        }
+    ]
+}
