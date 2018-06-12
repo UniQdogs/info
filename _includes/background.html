@@ -1,3 +1,10 @@
-<div id="background-cover" role="presentation">
-    <img src="{{ "/assets/background.jpg" | relative_url }}" alt="background image of dog" />
+<div id="background-cover" role="presentation"
+    {% case page.background-align %}
+    {% when 'left' %}
+        style="justify-content: flex-start"
+    {% when 'right' %}
+        style="justify-content: flex-end"
+    {% endcase %}
+>
+    <img src="{{ page.background | relative_url }}" alt="background image of dog" />
 </div>

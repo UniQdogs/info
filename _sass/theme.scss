@@ -1,9 +1,11 @@
 $accent: #056ec3;
 
 $header-primary: #fbfdff;
-$content-primary: #f1fcfc;
+// $content-primary: #f1fcfc;
+$content-primary: $header-primary;
 $footer-primary: $header-primary;
 $overlay-background-opacity: 80%;
+$content-background-opacity: 70%;
 
 * {
     box-sizing: border-box;

@@ -15,9 +15,18 @@
     }
 
     #credentials {
-        width: 340px;
+        width: 399px;
         line-height: 1.3em;
         margin: 0 auto;
+    }
+
+    @media only screen and (max-width: 450px) {
+        #credentials {
+            width: 320px;
+        }
+        .hide-on-mobile {
+            display: none;
+        }
     }
 }
 
