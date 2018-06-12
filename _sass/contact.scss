@@ -1,0 +1,9 @@
+main address {
+    p:not(:last-child) {
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+    p:last-child {
+        margin-top: 0;
+    }
+}
