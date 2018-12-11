@@ -8,7 +8,8 @@ background: /assets/background4.jpg
 
 Interesse in les op maat in Nijmegen en omstreken? Neem contact op!
 
-Voor leuke weetjes volg de UniQ Dogs Facebook pagina! 
+Voor leuke weetjes volg de UniQ Dogs <p><a href="https://facebook.com/positieveopvoeding">Facebook</a></p> pagina! 
+
 
 <address>
     <p>Astrid Severijnen</p>
