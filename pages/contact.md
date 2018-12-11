@@ -7,6 +7,7 @@ background: /assets/background4.jpg
 # Contact
 
 Interesse in les op maat in Nijmegen en omstreken? Neem contact op!
+
 Voor leuke weetjes volg de UniQ Dogs Facebook pagina! 
 
 <address>
