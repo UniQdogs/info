@@ -6,6 +6,9 @@ background: /assets/background3.jpg
 ---
 # Aanpak
 
+UniQ Dogs gaat voor een blije hond!
+
+Bij hondenschool UniQ Dogs staat het welzijn van uw hond voorop. Bij UniQ Dogs wordt gewenst gedrag beloond, ongewenst gedrag omgezet in gewenst gedrag en we leren u fouten te voorkomen. Voorkomen is beter dan genezen.
 Omdat elke hond uniek is en in een ander klimaat opgroeit geef ik naast groepslessen(puppy/beginners en basis) ook individueel les. Ik help u graag bij het socialiseren en opvoeden van uw pup. Ook met (jong) volwassen honden kunt u bij mij terecht, een hond is tenslotte (bijna) nooit te oud om te leren. We hebben eerst een kennismakingsgesprek en als het klikt kunnen we samen aan de slag.
 
 Wilt u binnenkort een pup gaan aanschaffen of een herplaatser in huis nemen? Ik help u graag opweg. Een hond aanschaffen is een grote verantwoordelijkheid, denk daarbij aan de levensduur van de hond (8-15 jaar), denk aan het ras dat u kiest (actief-kalm), denk aan de verschillen tussen werklijn-showlijn honden en het formaat dat de hond gaat krijgen uiteindelijk als hij volgroeid is (3kg-60kg).
