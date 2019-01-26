@@ -29,36 +29,26 @@ Na de puppy of beginnerscursus kunt u doorstromen naar de basiscursus. Hier word
 
 # Tarieven
 
-**Puppy cursus (10 weken)**
-
+**Puppy cursus (10 weken)**  
 € 75,-
 
-**Beginners cursus (10 weken)**
-
+**Beginners cursus (10 weken)**  
 € 75,-
 
-**Basis cursus (10 weken)**
-
+**Basis cursus (10 weken)**  
 € 80,-
 
-**Privéles**
-
+**Privéles**  
 € 65,- per uur. Excl. reiskosten à € 0,28 p/km*.
 
-**Privéles pakketten**
-
-3 uur voor € 180,-
-
-5 uur voor € 275,-
-
+**Privéles pakketten**  
+3 uur voor € 180,-  
+5 uur voor € 275,-  
 Excl. reiskosten à € 0,28 p/km*.
 
-**Gedragstherapie**
-
-Tarief overeen te komen met gedragstherapeut.
-
-Excl. reiskosten à € 0,28 p/km*.
-
+**Gedragstherapie**  
+Tarief overeen te komen met gedragstherapeut.  
+Excl. reiskosten à € 0,28 p/km*.  
 *Reisafstand wordt berekend via Google Maps
 
 **Huisregels**
@@ -71,7 +61,7 @@ Excl. reiskosten à € 0,28 p/km*.
 
 - Kinderen jonger dan 12 jaar mogen niet met de hond de oefeningen doen. Voor kinderen tussen de 12 en 16 jaar maakt de instructeur een inschatting of dit wel of niet mogelijk is.
 
-- U betaalt per cursus, restitutie is niet mogelijk bij verhindering.
+- U betaalt aan het begin van de cursus, restitutie is niet mogelijk bij verhindering.
 
-- Het is bij UniQ Dogs verboden om correctie materialen, (slipkettingen, wurglijnen, halti’s, anti-trektuigen, prikbanden etc.) te gebruiken.  
+- Het is bij UniQ Dogs verboden om correctie materialen (slipkettingen, wurglijnen, halti’s, anti-trektuigen, prikbanden etc.) te gebruiken.  
 Deze materialen brengen ernstige schade toe aan uw hond. Voor meer informatie kunt u terecht op: [http://www.hondenscholen.info/hondonvriendelijkehulpmiddelen.htm](http://www.hondenscholen.info/hondonvriendelijkehulpmiddelen.htm)

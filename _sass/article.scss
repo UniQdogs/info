@@ -23,9 +23,27 @@ article {
         margin: 0.75em;
     }
 
+    h2 {
+        font-size: 1.8em;
+        color: mix(black, $accent, 50%);
+        margin: 1.22em;
+    }
+
     p {
         font-size: 1.4em;
         margin: 1em 1.5em;
         line-height: 1.5em;
+    }
+
+    ul {
+        list-style: square;
+        margin: 1em 1.5em;
+        margin-left: 3.23em;
+        line-height: 1.5em;
+
+        li > p {
+            margin: 0;
+            display: inline;
+        }
     }
 }
