@@ -2,7 +2,8 @@
 layout: page
 title: Aanpak
 permalink: /aanpak/
-background: /assets/background3.jpg
+background: /assets/background7.jpg
+background-align: left
 ---
 # Aanpak
 
