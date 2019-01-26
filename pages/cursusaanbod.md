@@ -7,21 +7,15 @@ background-align: left
 ---
 # Cursus aanbod
 
-Een cursus bestaat uit 10 praktijklessen en gaat van start bij minimaal 3 aanmeldingen.
-
-Het maximale aantal cursisten per groep is 8. Partners en kinderen zijn van harte welkom tijdens de cursus.
-
-De trainingslocatie kan wisselen maar zal in de gemeente Nijmegen zijn. Dit omdat het voor zowel eigenaar als hond belangrijk is om in verschillende omgevingen te werken aan nieuwe vaardigheden.
+Een cursus bestaat uit 10 praktijklessen en gaat van start bij minimaal 3 aanmeldingen. Het maximale aantal cursisten per groep is 8. Partners en kinderen zijn van harte welkom tijdens de cursus. De trainingslocatie kan wisselen maar zal in de gemeente Nijmegen zijn. Dit omdat het voor zowel eigenaar als hond belangrijk is om in verschillende omgevingen te werken aan nieuwe vaardigheden.
 
 ## Puppy cursus
 
-Voor honden vanaf 8 tot 20 weken oud. Oudere pups kunnen deelnemen aan de beginnerscursus.
-
-Oefeningen zoals, zit, af, hier, begroeten, wandelen zonder trekken etc. komen aan de orde. De cursus wordt ondersteund door een theorieavond/middag zodat u extra inzicht krijgt in hondengedrag. In deze cursus besteden we veel aandacht aan al uw vragen met betrekking tot de opvoeding van uw pup.
+Voor honden vanaf 8 tot 20 weken oud. Oudere pups kunnen deelnemen aan de beginnerscursus. Oefeningen zoals, zit, af, hier, begroeten, wandelen zonder trekken etc. komen aan de orde. De cursus wordt ondersteund door een theorieavond/middag zodat u extra inzicht krijgt in hondengedrag. In deze cursus besteden we veel aandacht aan al uw vragen met betrekking tot de opvoeding van uw pup.
 
 ## Beginners cursus
 
-Voor alle honden vanaf 20 weken oud, die de puppy oefeningen nog niet kennen of een nieuwe start willen maken met de hondvriendelijke opvoedingswijze. Denk hierbij ook aan herplaatsers of asielhonden. De oefeningen worden op maat aan u en uw hond aangeboden, zodat u op aangepast niveau les krijgt.  De cursus wordt ondersteund door een theorieavond/middag zodat u extra inzicht krijgt in hondengedrag.
+Voor alle honden vanaf 20 weken oud, die de puppy oefeningen nog niet kennen of een nieuwe start willen maken met de hondvriendelijke opvoedingswijze. Denk hierbij ook aan herplaatsers of asielhonden. De oefeningen worden op maat aan u en uw hond aangeboden, zodat u op aangepast niveau les krijgt. De cursus wordt ondersteund door een theorieavond/middag zodat u extra inzicht krijgt in hondengedrag.
 
 ## Basis cursus
 
