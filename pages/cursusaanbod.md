@@ -19,28 +19,27 @@ Voor alle honden vanaf 20 weken oud, die de puppy oefeningen nog niet kennen of 
 
 ## Basis cursus
 
-Na de puppy of beginnerscursus kunt u doorstromen naar de basiscursus. Hier worden de puppy/beginners cursus oefeningen uitgebreid naar een hoger niveau. Ook dit wordt op maat voor u en uw hond aangeboden.
+Na de puppy of beginnerscursus kunt u doorstromen naar de basiscursus. Hier worden de puppy/beginners cursus oefeningen uitgebreid naar een hoger niveau. Ook is het belangrijk om in deze levensfase van de hond hem goed te blijven begeleiden. 
 
 # Tarieven
 
 **Puppy cursus (10 weken)**  
-€ 75,-
-
+€ 75,-  
 **Beginners cursus (10 weken)**  
-€ 75,-
-
+€ 75,-  
 **Basis cursus (10 weken)**  
 € 80,-
 
 **Privéles**  
-€ 65,- per uur. Excl. reiskosten à € 0,28 p/km*.
-
+€ 65,- per uur. Excl. reiskosten à € 0,28 p/km*.  
 **Privéles pakketten**  
 3 uur voor € 180,-  
 5 uur voor € 275,-  
 Excl. reiskosten à € 0,28 p/km*.
 
 **Gedragstherapie**  
+Ervaart u problemen met uw hond die niet op de hondenschool opgelost kunnen worden? Gedragstherapie aangeboden door een gediplomeerde gedragstherapeut kan dan een uitkomst bieden. 
+
 Tarief overeen te komen met gedragstherapeut.  
 Excl. reiskosten à € 0,28 p/km*.  
 *Reisafstand wordt berekend via Google Maps

@@ -6,8 +6,8 @@ background: /assets/background4.jpg
 ---
 # Contact
 
-U kunt zich inschrijven via e-mail.  
-Heeft u andere vragen? Neem vrijblijvend contact op!
+U kunt zich inschrijven via e-mail.   
+Heeft u nog vragen? Neem vrijblijvend contact op!
 
 Voor leuke weetjes volg de UniQ Dogs [Facebook](https://facebook.com/positieveopvoeding) pagina! 
 
