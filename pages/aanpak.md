@@ -13,8 +13,6 @@ Bij hondenschool UniQ Dogs staat het welzijn van uw hond voorop, gewenst gedrag 
 
 Omdat elke hond uniek is en in een ander klimaat opgroeit geef ik naast de groepslessen(puppy/beginners en basis) ook privéles. Dit kan een uitkomst zijn wanneer u een hond heeft die (nog) niet zo goed met anderen honden overweg kan, of wanneer u geen gelegenheid hebt om deel te nemen aan de cursus omdat u op de cursus avond verhinderd bent.
 
-Ik help u graag bij het socialiseren en opvoeden van uw pup. Ook met (jong) volwassen honden kunt u bij mij terecht, een hond is tenslotte (bijna) nooit te oud om te leren. 
-
 Wilt u binnenkort een pup gaan aanschaffen of een herplaatser in huis nemen? Ik help u graag opweg. Een hond aanschaffen is een grote verantwoordelijkheid, denk daarbij aan de levensduur van de hond (8-15 jaar), denk aan het ras dat u kiest (actief-kalm), denk aan de verschillen tussen werklijn-showlijn honden en het formaat dat de hond gaat krijgen uiteindelijk als hij volgroeid is (3kg-60kg).
 
 Bij een puppy is het goed socialiseren van de hond van groot belang. In de eerste weken(tot 12 weken oud) kunt u uw puppy kennis laten maken met de rest van de wereld en dit zal de pup altijd bijblijven, belangrijk is dus dat dit op een positieve manier gebeurt en dat de pup zoveel mogelijk verschillende positieve ervaringen opbouwt. 
