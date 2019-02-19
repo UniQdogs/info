@@ -19,7 +19,7 @@ Bij een puppy is het goed socialiseren van de hond van groot belang. In de eerst
 
 Denk hierbij aan het bezoeken van (honden)speeltuinen, basisscholen, autorijden, supermarkten, terrasjes e.d. zodat de hond kan wennen aan de drukke wereld om hem heen. Belangrijk hierbij is, dit op een rustig tempo te doen, bied de pup voldoende gelegenheid om alle prikkels te verwerken. Een pup heeft gemiddeld 20 uur per dag slaap nodig.
 
-De maanden hierna (tot ongeveer 6 maanden) is het belangrijk om uw pup goed te blijven begeleiden bij (nieuwe) activiteiten en ervoor te zorgen dat dit positieve ervaringen blijven.
+De maanden hierna is het belangrijk om uw pup goed te blijven begeleiden bij (nieuwe) activiteiten en ervoor te zorgen dat dit positieve ervaringen blijven.
 
 Heeft u specifieke wensen voor de opvoeding van uw hond?
 
