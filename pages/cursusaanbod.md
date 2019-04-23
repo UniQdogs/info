@@ -38,7 +38,8 @@ Na de puppy of beginnerscursus kunt u doorstromen naar de basiscursus. Hier word
 Excl. reiskosten à € 0,28 p/km*.
 
 **Gedragstherapie**  
-Ervaart u problemen met uw hond die niet op de hondenschool opgelost kunnen worden? Gedragstherapie aangeboden door een gediplomeerde gedragstherapeut kan dan een uitkomst bieden. 
+Ervaart u problemen met uw hond die niet op de hondenschool opgelost kunnen worden? 
+Ik zit in de laatste fase van mijn opleiding tot gedragstherapeut en kom graag samen met mijn praktijkbegeleider bij u thuis.
 
 Tarief overeen te komen met gedragstherapeut.  
 Excl. reiskosten à € 0,28 p/km*.  
