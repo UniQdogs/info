@@ -7,7 +7,7 @@ background-align: left
 ---
 # Cursusaanbod
 
-Een cursus bestaat uit 10 praktijklessen en gaat van start bij minimaal 3 aanmeldingen. Het maximale aantal cursisten per groep is 8. Partners en kinderen zijn van harte welkom tijdens de cursus. De trainingslocatie kan wisselen maar zal in de gemeente Nijmegen zijn. Dit omdat het voor zowel eigenaar als hond belangrijk is om in verschillende omgevingen te werken aan nieuwe vaardigheden.
+Een cursus bestaat uit 8 praktijklessen en gaat van start bij minimaal 3 aanmeldingen. Het maximale aantal cursisten per groep is 6. Partners en kinderen zijn van harte welkom tijdens de cursus. De trainingslocatie kan wisselen maar zal in de gemeente Nijmegen zijn. Dit omdat het voor zowel eigenaar als hond belangrijk is om in verschillende omgevingen te werken aan nieuwe vaardigheden.
 
 ## Puppy cursus
 
@@ -23,11 +23,11 @@ Na de puppy of beginnerscursus kunt u doorstromen naar de basiscursus. Hier word
 
 # Tarieven
 
-**Puppy cursus (10 weken)**  
+**Puppy cursus (8 weken)**  
 € 75,-  
-**Beginners cursus (10 weken)**  
+**Beginners cursus (8 weken)**  
 € 75,-  
-**Basis cursus (10 weken)**  
+**Basis cursus (8 weken)**  
 € 80,-
 
 **Privéles**  
