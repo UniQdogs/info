@@ -21,7 +21,7 @@ Denk hierbij aan het bezoeken van (honden)speeltuinen, basisscholen, autorijden,
 
 De maanden hierna is het belangrijk om uw pup goed te blijven begeleiden bij (nieuwe) activiteiten en ervoor te zorgen dat dit positieve ervaringen blijven.
 
-Heeft u specifieke wensen voor de opvoeding van uw hond?
+**Heeft u specifieke wensen voor de opvoeding van uw hond?**
 
 - Trekt uw hond aan de lijn?
 
@@ -32,4 +32,4 @@ Heeft u specifieke wensen voor de opvoeding van uw hond?
 - Wilt u hulp bij het leren “hier” komen op commando, zodat de hond lekker los kan lopen?
 
 
-Heeft u andere wensen of vragen? Stel ze gerust!
+**Heeft u andere wensen of vragen? Stel ze gerust!**
