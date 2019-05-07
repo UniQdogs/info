@@ -7,6 +7,7 @@ background: /assets/background4.jpg
 # Contact
 
 Heeft u nog vragen? Neem vrijblijvend contact op!
+
 U kunt zich voor een cursus, privé les of gedragstherapie inschrijven via e-mail.   
 
 
