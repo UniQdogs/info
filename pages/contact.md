@@ -6,8 +6,9 @@ background: /assets/background4.jpg
 ---
 # Contact
 
-U kunt zich inschrijven via e-mail.   
 Heeft u nog vragen? Neem vrijblijvend contact op!
+U kunt zich voor een cursus, privé les of gedragstherapie inschrijven via e-mail.   
+
 
 Voor leuke weetjes volg de UniQ Dogs [Facebook](https://facebook.com/positieveopvoeding) pagina! 
 
