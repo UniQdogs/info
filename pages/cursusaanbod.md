@@ -7,7 +7,7 @@ background-align: left
 ---
 # Cursusaanbod
 
-Een cursus bestaat uit 8 praktijklessen en gaat van start bij minimaal 3 aanmeldingen. Het maximale aantal cursisten per groep is 6. Partners en kinderen zijn van harte welkom tijdens de cursus. De trainingslocatie kan wisselen maar zal in de gemeente Nijmegen zijn. Dit omdat het voor zowel eigenaar als hond belangrijk is om in verschillende omgevingen te werken aan nieuwe vaardigheden.
+Een cursus bestaat uit 8 praktijklessen en gaat van start bij minimaal 3 aanmeldingen. Het maximale aantal cursisten per groep is 6. Partners en kinderen zijn van harte welkom tijdens de cursus. De trainingslocatie kan wisselen maar zal in de gemeente Nijmegen zijn. Dit omdat het voor zowel eigenaar als hond belangrijk is om in verschillende omgevingen te werken aan nieuwe vaardigheden. Bij UniQ Dogs bent u vrij om gebruik te maken van het cursusaanbod zonder dat u een verplicht lidmaatschap hoeft af te sluiten. 
 
 ## Puppy cursus
 
