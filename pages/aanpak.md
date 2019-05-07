@@ -7,7 +7,7 @@ background-align: left
 ---
 # Aanpak
 
-UniQ Dogs gaat voor een blije hond!
+**UniQ Dogs gaat voor een blije hond!**
 
 Bij hondenschool UniQ Dogs staat het welzijn van uw hond voorop, gewenst gedrag wordt beloond, ongewenst gedrag wordt omgezet in gewenst gedrag en we leren u fouten te voorkomen. Zoals het gezegde luidt: ‘Voorkomen is beter dan genezen’.
 
