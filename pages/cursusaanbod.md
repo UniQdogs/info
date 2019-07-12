@@ -29,8 +29,7 @@ Voor honden van alle leeftijden. Wilt u liever niet in groepen trainen maar is p
 **Beginners cursus (8 weken)**  
 € 75,-  
 **Basis cursus (8 weken)**  
-€ 80,-
-   
+€ 80,-   
 **Duo cursus (4 weken)**  
 € 60,-
 
