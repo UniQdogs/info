@@ -19,7 +19,7 @@ Voor alle honden vanaf 20 weken oud, die de puppy oefeningen nog niet kennen of 
 Na de puppy of beginnerscursus kunt u doorstromen naar de basiscursus. Hier worden de puppy/beginners cursus oefeningen uitgebreid naar een hoger niveau. Ook is het belangrijk om in deze levensfase van de hond hem goed te blijven begeleiden. 
 
 ## Duo cursus
-Voor honden van alle leeftijden. Wilt u liever niet in groepen trainen maar is privé les ook niet waar u naar op zoek bent? Dan kan een duo cursus uitkomst bieden. De indeling van de lessen komen we overeen met de cursisten. Dus als u een hond heeft die bijvoorbeeld al kan zitten, liggen en wachten, maar u wel nog wat hulp zoekt voor het wandelen zonder trekken, dan kunnen we daar de focus op leggen. Ook vragen met betrekking tot de alledaagse opvoeding worden uitvoerig behandeld en we helpen u bij het lezen en leren van hondengedrag en communicatie.
+Voor honden van alle leeftijden. Wilt u liever niet in groepen trainen maar is privé les ook niet waar u naar op zoek bent? Dan kan een duo cursus uitkomst bieden. De indeling van de lessen komen we overeen met u en uw medecursist. Dus als u een hond heeft die bijvoorbeeld al kan zitten, liggen en wachten, maar u wel nog wat hulp zoekt voor het wandelen zonder trekken, dan kunnen we daar de focus op leggen. Ook vragen met betrekking tot de alledaagse opvoeding worden uitvoerig behandeld en we helpen u bij het lezen en leren van hondengedrag en communicatie.
 
 
 # Tarieven
