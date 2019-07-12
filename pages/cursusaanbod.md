@@ -7,7 +7,7 @@ background-align: left
 ---
 # Cursusaanbod
 
-De groepscursussen voor puppy, beginners en basis gaan van start bij minimaal 3 aanmeldingen. Het maximale aantal cursisten per groep is 6. Partners en kinderen zijn van harte welkom tijdens de cursus. Naast de groepscursussen geef ik ook privé les, gedragstherapie (samen met mijn supervisor omdat ik hiervoor nog in opleiding ben) en geef ik les aan duo’s. Bij UniQ Dogs bent u vrij om gebruik te maken van het cursusaanbod zonder dat u een verplicht lidmaatschap hoeft af te sluiten. 
+De groepscursussen puppy, beginners en basis gaan van start bij minimaal 3 aanmeldingen. Het maximale aantal cursisten per groep is 6. Partners en kinderen zijn van harte welkom tijdens de cursus. Naast de groepscursussen geef ik ook privé les, gedragstherapie (samen met mijn supervisor omdat ik hiervoor nog in opleiding ben) en geef ik les aan duo’s. Bij UniQ Dogs bent u vrij om gebruik te maken van het cursusaanbod zonder dat u een verplicht lidmaatschap hoeft af te sluiten. 
 
 ## Puppy cursus
 Voor honden vanaf 8 tot 20 weken oud. Oudere pups kunnen deelnemen aan de beginnerscursus. Oefeningen zoals, zit, af, hier, begroeten, wandelen zonder trekken etc. komen aan de orde. De cursus wordt ondersteund door een theorieavond/middag zodat u extra inzicht krijgt in hondengedrag. In deze cursus besteden we veel aandacht aan al uw vragen met betrekking tot de opvoeding van uw pup.
