@@ -11,7 +11,7 @@ background-align: left
 
 Bij hondenschool UniQ Dogs staat het welzijn van uw hond voorop, gewenst gedrag wordt beloond, ongewenst gedrag wordt omgezet in gewenst gedrag en we leren u fouten te voorkomen. Zoals het gezegde luidt: ‘Voorkomen is beter dan genezen’.
 
-Omdat elke hond uniek is en in een ander klimaat opgroeit geef ik naast de groepslessen(puppy/beginners en basis) ook privéles. Dit kan een uitkomst zijn wanneer u een hond heeft die (nog) niet zo goed met anderen honden overweg kan, of wanneer u geen gelegenheid hebt om deel te nemen aan de cursus omdat u op de cursus avond verhinderd bent.
+Omdat elke hond uniek is en in een ander klimaat opgroeit geef ik naast de groepslessen(puppy/beginners en basis) ook privéles. Dit kan een uitkomst zijn wanneer u een hond heeft die (nog) niet zo goed met anderen honden overweg kan, of wanneer u geen gelegenheid heeft om deel te nemen aan de cursus omdat u op de cursus avond verhinderd bent.
 
 Wilt u binnenkort een pup gaan aanschaffen of een herplaatser in huis nemen? Ik help u graag opweg. Een hond aanschaffen is een grote verantwoordelijkheid, denk daarbij aan de levensduur van de hond (8-15 jaar), denk aan het ras dat u kiest (actief-kalm), denk aan de verschillen tussen werklijn-showlijn honden en het formaat dat de hond gaat krijgen uiteindelijk als hij volgroeid is (3kg-60kg).
 
