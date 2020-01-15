@@ -17,6 +17,7 @@ Daardoor ben ik op zoek gegaan naar alternatieven en kwam ik al snel uit bij Ã©Ã
 Hierdoor ben ik de opleiding tot kynologisch instructeur gaan volgen, deze heb ik met succes afgerond. Momenteel ben ik bezig met de opleiding tot hondengedragstherapeut. De opleiding volgens de Quiebus methode volg ik bij het opleidingsinstituut Aeres (door de overheid erkend leerinstituut). 
 
 Tot ziens!
+
 Astrid en Delta.
 
 
