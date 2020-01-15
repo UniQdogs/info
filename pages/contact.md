@@ -14,6 +14,6 @@ Voor leuke weetjes volg de UniQ Dogs [Facebook](https://facebook.com/positieveop
 
 <address>
     <p>Astrid Severijnen</p>
-    <p>06 26 67 45 80</p>
+    
     <p><a href="mailto:lesopmaat@uniqdogs.nl">lesopmaat@uniqdogs.nl</a></p>
 </address>
