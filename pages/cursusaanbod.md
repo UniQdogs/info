@@ -7,6 +7,13 @@ background-align: left
 ---
 # Cursusaanbod
 
+
+Om verspreiding van het COVID 19 virus tegen te gaan hebben wij besloten de groepslessen te stoppen en alleen nog maar duo cursussen of privé les aan te bieden.
+Vragen die binnen komen via e-mail of WhatsApp zullen we zo goed mogelijk op afstand proberen te beantwoorden.
+Wij wensen iedereen een goede gezondheid.
+
+
+
 De groepscursussen puppy, beginners en basis gaan van start bij minimaal 3 aanmeldingen. Het maximale aantal cursisten per groep is 6. Partners en kinderen zijn van harte welkom tijdens de cursus. Naast de groepscursussen geef ik ook privé les, gedragstherapie (samen met mijn supervisor omdat ik hiervoor nog in opleiding ben) en geef ik les aan duo’s. Bij UniQ Dogs bent u vrij om gebruik te maken van het cursusaanbod zonder dat u een verplicht lidmaatschap hoeft af te sluiten. 
 
 ## Puppy cursus
