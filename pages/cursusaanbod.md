@@ -8,7 +8,7 @@ background-align: left
 # Cursusaanbod
 
 
-Om verspreiding van het COVID 19 virus tegen te gaan hebben wij besloten de groepslessen te stoppen en alleen nog maar duo cursussen of privé les aan te bieden.
+Om verspreiding van het COVID 19 virus tegen te gaan hebben wij besloten de groepslessen te stoppen en alleen nog maar gedragstherapie, duo cursussen of privé les aan te bieden.
 Vragen die binnen komen via e-mail of WhatsApp zullen we zo goed mogelijk op afstand proberen te beantwoorden.
 Wij wensen iedereen een goede gezondheid.
 
