@@ -8,7 +8,7 @@ background: /assets/background2.jpg
 
 Hallo!
 
-Ik zal ons even voorstellen. Mijn naam is Astrid en mijn hond heet Delta. Delta is een Hollandse/Mechelse herder kruising van 4 jaar. Ik ben toen ik Delta als pup kreeg meteen gaan zoeken naar een hondenschool. De keuze was groot en ik koos de dichtstbijzijnde, er vanuit gaande dat elke hondenschool het zelfde is in lesstof en manier van omgang met de honden.
+Ik zal ons even voorstellen. Mijn naam is Astrid en mijn hond heet Delta. Delta is een Hollandse/Mechelse herder kruising van 5 jaar. Ik ben toen ik Delta als pup kreeg meteen gaan zoeken naar een hondenschool. De keuze was groot en ik koos de dichtstbijzijnde, er vanuit gaande dat elke hondenschool het zelfde is in lesstof en manier van omgang met de honden.
 
 De ‘zit’ en de ‘af’ gingen zonder enige moeite, echter bleek dat ze Delta en mij niet konden helpen met netjes wandelen aan de lijn, het ‘hier’ komen als er andere omgevingsfactoren bij kwamen kijken en nog een aantal andere zaken.
 
