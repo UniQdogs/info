@@ -5,7 +5,7 @@ permalink: /cursusaanbod/
 background: /assets/background6.jpg
 background-align: left
 ---
-# Cursusaanbod
+# Cursusaanbod/tarieven
 
 
 Om verspreiding van het COVID 19 virus tegen te gaan hebben wij besloten de groepslessen te stoppen en alleen nog maar gedragstherapie, duo cursussen of privé les aan te bieden.
