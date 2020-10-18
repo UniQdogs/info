@@ -7,14 +7,14 @@ background-align: left
 ---
 # Cursusaanbod & tarieven
 
+Eindelijk is het zo ver! Ik mag examen doen voor de hondengedragstherapie. Bent u iemand (of kent u iemand) die problemen ervaart met het gedrag van uw hond? 
+Heeft uw hond agressie of angst problematiek? Heeft u alles al geprobeerd maar niks helpt? Wij komen graag bij u thuis. 
+Wat kunt u verwachten van het consult gedragstherapie?
+Een consult duurt gemiddeld 2 tot 3 uur en de kosten hiervan bedragen €90,- inclusief reiskosten.
+Wij zullen met 2 personen aan huis komen, met u in gesprek gaan, het gedrag van de hond observeren, situaties testen, een therapie op maat opstellen en na afloop krijgt u deze op papier uitgewerkt zodat u altijd alles nog eens rustig na kan lezen.
 
-Om verspreiding van het COVID 19 virus tegen te gaan hebben wij besloten de groepslessen te stoppen en alleen nog maar gedragstherapie, duo cursussen of privé les aan te bieden.
-Vragen die binnen komen via e-mail of WhatsApp zullen we zo goed mogelijk op afstand proberen te beantwoorden.
-Wij wensen iedereen een goede gezondheid.
+Bent u geïnteresseerd? Stuur vrijblijvend een mail naar <p><a href="mailto:lesopmaat@uniqdogs.nl">lesopmaat@uniqdogs.nl</a></p>
 
-
-
-De groepscursussen puppy, beginners en basis gaan van start bij minimaal 3 aanmeldingen. Het maximale aantal cursisten per groep is 6. Partners en kinderen zijn van harte welkom tijdens de cursus. Naast de groepscursussen geef ik ook privé les, gedragstherapie (samen met mijn supervisor omdat ik hiervoor nog in opleiding ben) en geef ik les aan duo’s. Bij UniQ Dogs bent u vrij om gebruik te maken van het cursusaanbod zonder dat u een verplicht lidmaatschap hoeft af te sluiten. 
 
 ## Puppy cursus
 Voor honden vanaf 8 tot 20 weken oud. Oudere pups kunnen deelnemen aan de beginnerscursus. Oefeningen zoals, zit, af, hier, begroeten, wandelen zonder trekken etc. komen aan de orde. De cursus wordt ondersteund door een theorieavond/middag zodat u extra inzicht krijgt in hondengedrag. In deze cursus besteden we veel aandacht aan al uw vragen met betrekking tot de opvoeding van uw pup.
@@ -48,12 +48,6 @@ Voor honden van alle leeftijden. Wilt u liever niet in groepen trainen maar is p
 5 uur voor € 275,-  
 Excl. reiskosten à € 0,28 p/km*.
 
-**Gedragstherapie**  
-Ervaart u problemen met uw hond die niet op de hondenschool opgelost kunnen worden? 
-Ik zit in de laatste fase van mijn opleiding tot gedragstherapeut en kom graag samen met mijn praktijkbegeleider bij u thuis.
-
-Tarief overeen te komen met gedragstherapeut.  
-Excl. reiskosten à € 0,28 p/km*.  
 *Reisafstand wordt berekend via Google Maps
 
 **Huisregels**
