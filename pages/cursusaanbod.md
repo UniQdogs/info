@@ -7,6 +7,8 @@ background-align: left
 ---
 # Cursusaanbod & tarieven
 
+**Speciale examen aanbieding**
+
 Eindelijk is het zo ver! Ik mag examen doen voor de hondengedragstherapie. Bent u iemand (of kent u iemand) die problemen ervaart met het gedrag van uw hond? 
 Heeft uw hond agressie of angst problematiek? Heeft u alles al geprobeerd maar niks helpt? Wij komen graag bij u thuis. 
 Wat kunt u verwachten van het consult gedragstherapie?
