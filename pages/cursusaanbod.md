@@ -13,7 +13,7 @@ Wat kunt u verwachten van het consult gedragstherapie?
 Een consult duurt gemiddeld 2 tot 3 uur en de kosten hiervan bedragen €90,- inclusief reiskosten.
 Wij zullen met 2 personen aan huis komen, met u in gesprek gaan, het gedrag van de hond observeren, situaties testen, een therapie op maat opstellen en na afloop krijgt u deze op papier uitgewerkt zodat u altijd alles nog eens rustig na kan lezen.
 
-Bent u geïnteresseerd? Stuur vrijblijvend een mail naar <p><a href="mailto:lesopmaat@uniqdogs.nl">lesopmaat@uniqdogs.nl</a></p>
+Bent u geïnteresseerd? Stuur vrijblijvend een mail naar <a href="mailto:lesopmaat@uniqdogs.nl">lesopmaat@uniqdogs.nl</a>
 
 
 ## Puppy cursus
