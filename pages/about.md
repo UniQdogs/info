@@ -14,7 +14,7 @@ De ‘zit’ en de ‘af’ gingen zonder enige moeite, echter bleek dat ze Delt
 
 Daardoor ben ik op zoek gegaan naar alternatieven en kwam ik al snel uit bij één op één begeleiding. Deze persoonlijke aandacht en maatwerk was precies wat wij op dat moment nodig hadden. Mede hierdoor ben ik me gaan verdiepen in hondengedrag. Ik wilde graag weten waarom Delta bepaalde dingen deed.
 
-Hierdoor ben ik de opleiding tot kynologisch instructeur gaan volgen, deze heb ik met succes afgerond. Momenteel ben ik bezig met de opleiding tot hondengedragstherapeut. De opleiding volgens de Quiebus methode volg ik bij het opleidingsinstituut Aeres (door de overheid erkend leerinstituut). 
+Hierdoor ben ik de opleiding tot kynologisch instructeur gaan volgen, deze heb ik met succes afgerond. Op dit moment zit ik in de laatste fase van de opleiding tot hondengedragstherapeut, de praktijk stage heb ik met goed gevolg afgerond, nu nog enkele examens en dan mag ik mezelf een gediplomeerd hondengedragstherapeut noemen. De opleiding volgens de Quiebus methode volg ik bij het opleidingsinstituut Aeres (door de overheid erkend leerinstituut). 
 
 Tot ziens!
 
