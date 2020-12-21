@@ -3,7 +3,7 @@ layout: page
 title: Home
 permalink: /
 background: /assets/Fludeau.jpg
-background-align: left
+
 ---
 # Les op maat voor u en uw hond!
 
