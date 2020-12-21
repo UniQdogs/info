@@ -2,8 +2,8 @@
 layout: page
 title: Cursusaanbod
 permalink: /cursusaanbod/
-background: /assets/background6.jpg
-background-align: left
+background: /assets/Deltazwemcrop.jpg
+
 ---
 # Cursusaanbod & tarieven
 
