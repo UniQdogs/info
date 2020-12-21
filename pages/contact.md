@@ -2,7 +2,7 @@
 layout: page
 title: Contact
 permalink: /contact/
-background: /assets/background4.jpg
+background: /assets/Deltacrop.jpg
 ---
 # Contact
 
