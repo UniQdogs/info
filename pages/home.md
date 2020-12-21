@@ -2,7 +2,7 @@
 layout: page
 title: Home
 permalink: /
-background: /assets/Fludeau.jpg
+background: /assets/Fludeau1.jpg
 
 ---
 # Les op maat voor u en uw hond!
