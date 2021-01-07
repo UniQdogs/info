@@ -10,7 +10,7 @@ We geven structureel les op de dinsdag, maar we geven 'les op maat' en hierdoor 
 Heeft u nog vragen? Neem vrijblijvend contact op! 
 U kunt zich voor een cursus, privé les of gedragstherapie inschrijven via e-mail.   
 
-Voor leuke weetjes volg de UniQ Dogs [Facebook](https://facebook.com/positieveopvoeding) pagina! 
+Voor het laatste nieuws volg de UniQ Dogs [Facebook](https://facebook.com/positieveopvoeding) pagina! 
 
 
 <address>
