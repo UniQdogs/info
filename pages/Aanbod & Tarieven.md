@@ -17,11 +17,13 @@ Wij zullen met 2 personen aan huis komen, met u in gesprek gaan, het gedrag van 
 
 Bent u geïnteresseerd? Stuur vrijblijvend een mail naar <a href="mailto:lesopmaat@uniqdogs.nl">lesopmaat@uniqdogs.nl</a>
 
+## Update Corona virus
+Om verspreiding van het coronavirus tegen te gaan geven wij op dit moment geen groepscursussen.
+
 
 ## Privé les
 Voor honden van alle leeftijden. Samen spreken we af in een van de natuurrijke omgevingen van Nijmegen, het Goffertpark, Heumensoord of de Hatertse Vennen.
 Het grote voordeel is dat u zelf kunt bepalen wat u wilt trainen met uw hond, dit kunnen gehoorzaamheidsoefeningen zijn maar ook zeker vragen gericht op ontspanning en spel. Ook vragen met betrekking tot de alledaagse opvoeding worden uitvoerig behandeld en we helpen u bij het lezen en leren van hondengedrag en communicatie.
-
 
 
 ## Duo cursus
