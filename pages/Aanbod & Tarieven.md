@@ -31,7 +31,7 @@ Voor honden van alle leeftijden. Wilt u liever niet in groepen trainen maar is p
 # Tarieven
 
 **Duo cursus (4 weken)**  
-€ 60,-
+€ 80,-
 
 **Privéles**  
 € 65,- per uur. Excl. reiskosten à € 0,28 p/km*.  
