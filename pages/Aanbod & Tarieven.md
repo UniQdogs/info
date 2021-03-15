@@ -16,6 +16,7 @@ Heeft uw hond gewoontes ontwikkeld waar u minder blij mee bent?
 - overmatig blaffen
 - slopen
 - angstig zijn voor: objecten, mensen en/ of andere honden (dieren)
+
 Heeft u vragen of bent u benieuwd of we u, met in achtneming van de maatregelen, nog wel de juiste begeleiding kunnen bieden? stuur dan een e-mail naar <a href="mailto:lesopmaat@uniqdogs.nl">lesopmaat@uniqdogs.nl</a>
 
 
