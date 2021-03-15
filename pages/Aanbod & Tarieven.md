@@ -52,6 +52,7 @@ Excl. reiskosten à € 0,28 p/km*.
 
 *Reisafstand wordt berekend via Google Maps
 
+
 **Huisregels**
 
 - Honden moeten ingeënt zijn volgens de leeftijdsnormen en met de tijdige herhaling(en).
