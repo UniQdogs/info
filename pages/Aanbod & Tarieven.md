@@ -47,10 +47,12 @@ Heeft u vragen of bent u benieuwd of we u, met in achtneming van de maatregelen,
 Excl. reiskosten à € 0,28 p/km*.
 
 **Gedragstherapie aan huis**
+
 2,5 uur voor €160,- 
 Excl. reiskosten à € 0,28 p/km*.
 
 *Reisafstand wordt berekend via Google Maps
+
 
 
 **Huisregels**
