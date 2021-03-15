@@ -48,11 +48,14 @@ Excl. reiskosten à € 0,28 p/km*.
 
 **Gedragstherapie aan huis**  
 2,5 uur voor €160,-   
-Excl. reiskosten à € 0,28 p/km*.
-
+Excl. reiskosten à € 0,28 p/km*.  
 *Reisafstand wordt berekend via Google Maps
   
+Wij verzoeken u vriendelijk de betaling voor aanvang van de afspraak over te boeken. U ontvangt een factuur via e-mail.
+Wilt u liever contant betalen? dat kan bij aanvang van de afspraak.
 
+  
+   
 **Huisregels**
 
 - Honden moeten ingeënt zijn volgens de leeftijdsnormen en met de tijdige herhaling(en).
