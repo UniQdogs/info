@@ -7,6 +7,19 @@ background: /assets/Deltazwemcrop.jpg
 ---
 # Aanbod & tarieven
 
+## Update Corona virus
+Om verspreiding van het coronavirus tegen te gaan geven wij op dit moment geen groepscursussen.
+
+
+## Privé les
+Voor honden van alle leeftijden. Samen spreken we af in een van de natuurrijke omgevingen van Nijmegen: het Goffertpark, Heumensoord of de Hatertse Vennen.
+Het grote voordeel is dat u zelf kunt bepalen wat u wilt trainen met uw hond, dit kunnen gehoorzaamheidsoefeningen zijn maar ook zeker vragen gericht op ontspanning en spel. Ook vragen met betrekking tot de alledaagse opvoeding worden uitvoerig behandeld en we helpen u bij het lezen en leren van hondengedrag en communicatie.
+
+
+## Duo cursus
+Voor honden van alle leeftijden. Wilt u liever niet in groepen trainen maar is privé les ook niet waar u naar op zoek bent? Dan kan een duo cursus uitkomst bieden. De indeling van de lessen komen we overeen met u en uw medecursist. Dus als u een hond heeft die bijvoorbeeld al kan zitten, liggen en wachten, maar u wel nog wat hulp zoekt voor het wandelen zonder trekken, dan kunnen we daar de focus op leggen. Ook vragen met betrekking tot de alledaagse opvoeding worden uitvoerig behandeld en we helpen u bij het lezen en leren van hondengedrag en communicatie.
+
+
 ## Gedragstherapie aan huis
 Vanwege de RIVM richtlijnen is er nog beperkt mogelijkheid voor gedragstherapie aan huis.
 Heeft uw hond gewoontes ontwikkeld waar u minder blij mee bent? 
@@ -19,18 +32,6 @@ Heeft uw hond gewoontes ontwikkeld waar u minder blij mee bent?
 
 Heeft u vragen of bent u benieuwd of we u, met in achtneming van de maatregelen, nog wel de juiste begeleiding kunnen bieden? stuur dan een e-mail naar <a href="mailto:lesopmaat@uniqdogs.nl">lesopmaat@uniqdogs.nl</a>
 
-
-## Update Corona virus
-Om verspreiding van het coronavirus tegen te gaan geven wij op dit moment geen groepscursussen.
-
-
-## Privé les
-Voor honden van alle leeftijden. Samen spreken we af in een van de natuurrijke omgevingen van Nijmegen: het Goffertpark, Heumensoord of de Hatertse Vennen.
-Het grote voordeel is dat u zelf kunt bepalen wat u wilt trainen met uw hond, dit kunnen gehoorzaamheidsoefeningen zijn maar ook zeker vragen gericht op ontspanning en spel. Ook vragen met betrekking tot de alledaagse opvoeding worden uitvoerig behandeld en we helpen u bij het lezen en leren van hondengedrag en communicatie.
-
-
-## Duo cursus
-Voor honden van alle leeftijden. Wilt u liever niet in groepen trainen maar is privé les ook niet waar u naar op zoek bent? Dan kan een duo cursus uitkomst bieden. De indeling van de lessen komen we overeen met u en uw medecursist. Dus als u een hond heeft die bijvoorbeeld al kan zitten, liggen en wachten, maar u wel nog wat hulp zoekt voor het wandelen zonder trekken, dan kunnen we daar de focus op leggen. Ook vragen met betrekking tot de alledaagse opvoeding worden uitvoerig behandeld en we helpen u bij het lezen en leren van hondengedrag en communicatie.
 
 
 # Tarieven
