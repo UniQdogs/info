@@ -18,5 +18,5 @@ Om verspreiding van het coronavirus tegen te gaan hebben wij vorig jaar besloten
 Naar aanleiding van de nieuwe aangescherpte maatregelen (lockdown) moeten wij nu ook helaas het geven van duo les stoppen.
 
 Voor dringende vragen en (ernstige) gedragsproblemen blijven we wel bereikbaar en is er nog beperkt gedragstherapie en/of les aan huis mogelijk. 
-Vragen die binnen komen via e-mail of WhatsApp zullen we zo goed mogelijk op afstand proberen te beantwoorden.
+Vragen die binnen komen via e-mail zullen we zo goed mogelijk op afstand proberen te beantwoorden.
 Wij wensen iedereen een goede gezondheid.
