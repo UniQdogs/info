@@ -10,7 +10,8 @@ background-align: left
 **UniQ Dogs gaat voor een blije hond!**  
 Bij hondenschool UniQ Dogs staat het welzijn van uw hond voorop, gewenst gedrag wordt beloond, ongewenst gedrag wordt omgezet in gewenst gedrag en we leren u fouten te voorkomen. Zoals het gezegde luidt: ‘Voorkomen is beter dan genezen’.
 
-Omdat elke hond uniek is en in een ander klimaat opgroeit geef ik naast de groepslessen(puppy/beginners en basis) ook privéles. Dit kan een uitkomst zijn wanneer u een hond heeft die (nog) niet zo goed met anderen honden overweg kan, of wanneer u geen gelegenheid heeft om deel te nemen aan de cursus omdat u op de cursus avond verhinderd bent.
+Omdat elke hond uniek is en in een ander klimaat opgroeit geef ik 100% les op maat. 
+Het begint al bij het adopteren/de aanschaf van een hond. Ik geef puppy 'kickstart' lessen aan huis, privé lessen (aan huis of op locatie) en indien gewenst(op aanvraag) groepslessen. Bij een puppy kickstart krijgt u twee uur les aan huis en neem ik al uw vragen in behandeling(zindelijkheid, alleen leren zijn, bijtgedrag e.d.), met aanvullend opvoedoefeningen(zit, af, hier, los e.d.) naar wens. 
 
 Wilt u binnenkort een pup gaan aanschaffen of een herplaatser in huis nemen? Ik help u graag opweg. Een hond aanschaffen is een grote verantwoordelijkheid, denk daarbij aan de levensduur van de hond (8-15 jaar), denk aan het ras dat u kiest (actief-kalm), denk aan de verschillen tussen werklijn-showlijn honden en het formaat dat de hond gaat krijgen uiteindelijk als hij volgroeid is (3kg-60kg).
 
