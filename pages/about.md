@@ -21,4 +21,4 @@ Ook al komt u niet bij UniQ Dogs op de hondenschool, vraag altijd naar recente o
 
 
 
-![foto Astrid en Delta]({{ '/assets/about_us.jpg' | relative_url }})
+![foto Astrid en Delta]({{ '/assets/Voorstellencrop1.jpg' | relative_url }})
