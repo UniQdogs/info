@@ -7,17 +7,15 @@ background: /assets/Deltazwemcrop.jpg
 ---
 # Aanbod & tarieven
 
-## Update Corona virus
-Om verspreiding van het coronavirus tegen te gaan geven wij op dit moment geen groepscursussen.
+
+## Puppy kickstart
+Voor iedereen die hulp nodig heeft bij de opvoeding van een puppy of herplaatser bieden we nieuw in deze corona tijd een ‘puppy kickstart’ aan.
+Dit betreft een privé consult van twee uur bij u thuis. Ik kom de basis principes van de hond uitleggen (zindelijkheid, alleen leren zijn, bijtgedrag e.d.) en alle vragen die u heeft op maat beantwoorden en eventueel ook een aantal opvoedoefeningen(zit, af, hier, los e.d.) uitleggen, afhankelijk van de hoeveel tijd in het beantwoorden van de vragen gaat zitten en welke oefeningen u belangrijk vindt.
 
 
 ## Privé les
 Voor honden van alle leeftijden. Samen spreken we af in een van de natuurrijke omgevingen van Nijmegen: het Goffertpark, Heumensoord of de Hatertse Vennen.
 Het grote voordeel is dat u zelf kunt bepalen wat u wilt trainen met uw hond, dit kunnen gehoorzaamheidsoefeningen zijn maar ook zeker vragen gericht op ontspanning en spel. Ook vragen met betrekking tot de alledaagse opvoeding worden uitvoerig behandeld en we helpen u bij het lezen en leren van hondengedrag en communicatie.
-
-
-## Duo cursus
-Voor honden van alle leeftijden. Wilt u liever niet in groepen trainen maar is privé les ook niet waar u naar op zoek bent? Dan kan een duo cursus uitkomst bieden. De indeling van de lessen komen we overeen met u en uw medecursist. Dus als u een hond heeft die bijvoorbeeld al kan zitten, liggen en wachten, maar u wel nog wat hulp zoekt voor het wandelen zonder trekken, dan kunnen we daar de focus op leggen. Ook vragen met betrekking tot de alledaagse opvoeding worden uitvoerig behandeld en we helpen u bij het lezen en leren van hondengedrag en communicatie.
 
 
 ## Gedragstherapie aan huis
@@ -36,8 +34,8 @@ Heeft u vragen of bent u benieuwd of we u, met in achtneming van de maatregelen,
 
 # Tarieven
 
-**Duo cursus (4 weken)**  
-€ 80,-
+**Puppy Kickstart**  
+€ 130,- Excl. reiskosten à € 0,28 p/km*
 
 **Privéles**  
 € 65,- per uur. Excl. reiskosten à € 0,28 p/km*.  
@@ -56,15 +54,14 @@ Wilt u liever contant betalen? dat kan bij aanvang van de afspraak.
 
   
    
+   
 **Huisregels**
 
 - Honden moeten ingeënt zijn volgens de leeftijdsnormen en met de tijdige herhaling(en).
 
-- Het hondenpaspoort dient u mee te nemen op de eerste cursus bijeenkomst.
+- Het hondenpaspoort dient u bij zich te hebben bij de eerste kennismaking.
 
 - De honden hebben een gewone halsband of tuig om, met daaraan een lijn van ongeveer 1,50 meter.
-
-- Kinderen jonger dan 12 jaar mogen niet met de hond de oefeningen doen. Voor kinderen tussen de 12 en 16 jaar maakt de instructeur een inschatting of dit wel of niet mogelijk is.
 
 - Betaling geschiedt altijd vooraf via overboeking of bij aanvang van de les contant, restitutie is niet mogelijk bij verhindering.
 
