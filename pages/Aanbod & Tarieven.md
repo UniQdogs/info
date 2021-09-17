@@ -19,7 +19,7 @@ Het grote voordeel is dat u zelf kunt bepalen wat u wilt trainen met uw hond, di
 
 
 ## Gedragstherapie aan huis
-Vanwege de RIVM richtlijnen is er nog beperkt mogelijkheid voor gedragstherapie aan huis.
+
 Heeft uw hond gewoontes ontwikkeld waar u minder blij mee bent? 
 - uitvallen naar andere honden
 - uitvallen naar mensen/kinderen
@@ -28,7 +28,7 @@ Heeft uw hond gewoontes ontwikkeld waar u minder blij mee bent?
 - slopen
 - angstig zijn voor: objecten, mensen en/ of andere honden (dieren)
 
-Heeft u vragen of bent u benieuwd of we u, met in achtneming van de maatregelen, nog wel de juiste begeleiding kunnen bieden? stuur dan een e-mail naar <a href="mailto:lesopmaat@uniqdogs.nl">lesopmaat@uniqdogs.nl</a>
+Heeft u vragen of bent u benieuwd of we u de juiste begeleiding kunnen bieden? stuur dan een e-mail naar <a href="mailto:lesopmaat@uniqdogs.nl">lesopmaat@uniqdogs.nl</a>
 
 
 
