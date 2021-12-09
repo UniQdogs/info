@@ -20,11 +20,11 @@ De eerste stap is de opleiding tot kynologisch instructeur(trainer), deze heb ik
 Ook al komt u niet bij UniQ Dogs in training, vraag altijd naar recente opleidingen en/of bijscholingen en controleer dit ook.
 
 
-Astrid en Fludeau
+                        Astrid en Fludeau
 ![foto Astrid en Delta]({{ '/assets/Voorstellencrop1.jpg' | relative_url }})
 
 
-Goed nieuws! Alpha is ons nieuwste gezinslid en zal veel gaan betekenen in het ontwikkelen van nieuwe lesmateriaal.
+Goed nieuws! Alpha is ons nieuwste gezinslid en zal veel gaan betekenen in het ontwikkelen van nieuw lesmateriaal.
 
-Delta en Alpha
+                        Delta en Alpha
 ![foto Astrid en Delta]({{ '/assets/Alpha en Delta.jpg' | relative_url }})
