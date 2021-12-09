@@ -2,7 +2,7 @@
 layout: page
 title: Over ons
 permalink: /over_ons/
-background: /assets/background2.jpg
+background: /assets/MexxDelta.jpg
 ---
 # Even voorstellen
   
