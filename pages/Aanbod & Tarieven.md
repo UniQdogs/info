@@ -2,7 +2,7 @@
 layout: page
 title: Aanbod & Tarieven
 permalink: /cursusaanbod/
-background: /assets/Deltazwemcrop.jpg
+background: /assets/Alpha1.jpg
 
 ---
 # Aanbod & tarieven
