@@ -28,4 +28,4 @@ Astrid en Fludeau
 Goed nieuws! Alpha is ons nieuwste gezinslid en zal veel gaan betekenen in het ontwikkelen van nieuw lesmateriaal.
 
 Delta en Alpha
-![foto Astrid en Delta]({{ '/assets/Alpha en Delta.jpg' | relative_url }})
+![foto Astrid en Delta]({{ '/assets/AlphaAstrid.jpg' | relative_url }})
