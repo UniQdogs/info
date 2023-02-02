@@ -6,7 +6,7 @@ background: /assets/Alpha2.jpg
 ---
 # Even voorstellen
   
-Mijn naam is Astrid en de verschillende honden afgebeeld op de website zijn Darko(kruising Appenzeller Labrador), Fludeau(Poedel), Delta(Herder) en Alpha(Poedel) is onze pup van bijna een jaar oud. Delta is een kruising tussen een Hollandse-en Mechelse herder van inmiddels 6 jaar. Ik ben toen ik Delta als pup kreeg meteen gaan zoeken naar een hondenschool. De keuze was groot en ik koos de dichtstbijzijnde, er vanuit gaande dat elke hondenschool het zelfde is in lesstof en manier van omgang met de honden. Dat is helaas niet zo.
+Mijn naam is Astrid en de verschillende honden afgebeeld op de website zijn Darko(kruising Appenzeller Labrador), Fludeau(Poedel), Delta(Herder) en Alpha(Poedel) is onze junior van 1,5 jaar oud. Delta is een kruising tussen een Hollandse-en Mechelse herder van inmiddels 7,5 jaar. Ik ben toen ik Delta als pup kreeg meteen gaan zoeken naar een hondenschool. De keuze was groot en ik koos de dichtstbijzijnde, er vanuit gaande dat elke hondenschool het zelfde is in lesstof en manier van omgang met de honden. Dat is helaas niet zo.
 
 In Nederland mag iedereen zich hondeninstructeur en/of hondengedragstherapeut noemen. De hondenopvoeding is een vakgebied waarin de laatste jaren veel veranderingen zijn doorgevoerd. En niet voor niets! De ervaring is dat de “ouderwetse” methoden uiteindelijk meer kwaad dan goed doen en het welzijn van de hond hierdoor flink beschadigd. 
 
@@ -15,7 +15,7 @@ De ‘zit’ en de ‘af’ gingen zonder enige moeite, echter bleek dat ze Delt
 
 Toen ben ik op zoek gegaan naar alternatieven. Al snel kwam ik uit bij één op één begeleiding. Deze persoonlijke aandacht en maatwerk was precies wat wij op dat moment nodig hadden. Mede hierdoor ben ik me gaan verdiepen in hondengedrag. Ik wilde graag weten waarom Delta bepaalde dingen deed, lekker ontspannen kunnen wandelen en vooral een goede relatie met hem hebben. Hierdoor heb ik besloten de opleiding tot hondengedragstherapeut te gaan volgen met alles erop en er aan.
 
-De eerste stap is de opleiding tot kynologisch instructeur(trainer), deze heb ik met succes afgerond. De volgende stap is een intensieve stage en het kennismaken met probleemgedrag in het asiel en bij mensen thuis, ook deze fase van de opleiding (Oplossen probleemgedrag in de praktijk) heb ik met goed gevolg afgesloten en daarna volgen er verschillende examens, ook deze heb ik met goed gevolg doorlopen waardoor ik begin dit jaar mijn volledige diploma in ontvangst heb mogen nemen en ik mezelf nu gediplomeerd hondengedragstherapeut mag noemen. De opleiding volgens de Quiebus methode heb ik bij het opleidingsinstituut Aeres (door de overheid erkend leerinstituut) gevolgd.
+De eerste stap is de opleiding tot kynologisch instructeur(trainer), deze heb ik met succes afgerond. De volgende stap is een intensieve stage en het kennismaken met probleemgedrag in het asiel en bij mensen thuis, ook deze fase van de opleiding (Oplossen probleemgedrag in de praktijk) heb ik met goed gevolg afgesloten en daarna volgen er verschillende examens, ook deze heb ik met goed gevolg doorlopen waardoor ik begin vorig jaar mijn volledige diploma in ontvangst heb mogen nemen en ik mezelf nu gediplomeerd hondengedragstherapeut mag noemen. De opleiding volgens de Quiebus methode heb ik bij het opleidingsinstituut Aeres (door de overheid erkend leerinstituut) gevolgd.
 Ook al komt u niet bij UniQ Dogs in training, vraag altijd naar recente opleidingen en/of bijscholingen en controleer dit ook.
 
 
