@@ -26,5 +26,3 @@ Astrid en Alpha
 
 Astrid en Fludeau
 ![foto Astrid en Delta]({{ '/assets/Voorstellencrop1.jpg' | relative_url }})
-
-
