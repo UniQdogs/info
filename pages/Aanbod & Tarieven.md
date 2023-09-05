@@ -9,7 +9,7 @@ background: /assets/Alpha1.jpg
 
 
 ## Puppy kickstart
-Voor iedereen die hulp nodig heeft bij de opvoeding van een puppy of herplaatser bieden we nieuw in deze corona tijd een ‘puppy kickstart’ aan.
+Voor iedereen die hulp nodig heeft bij de opvoeding van een puppy of herplaatser bieden we een ‘puppy kickstart’ aan.
 Dit betreft een privé consult van twee uur bij u thuis. Ik kom de basis principes van de hond uitleggen (zindelijkheid, alleen leren zijn, bijtgedrag e.d.) en alle vragen die u heeft op maat beantwoorden en eventueel ook een aantal opvoedoefeningen(zit, af, hier, los e.d.) uitleggen, afhankelijk van de hoeveel tijd in het beantwoorden van de vragen gaat zitten en welke oefeningen u belangrijk vindt.
 
 
