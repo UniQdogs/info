@@ -6,7 +6,7 @@ background: /assets/Darkocrop.jpg
 ---
 # Contact
 
-We geven structureel les op maandag en/of dinsdag, maar op een andere dag trainen is altijd mogelijk in overleg.
+De vaste lesdag is vrijdag, maar op een andere dag trainen is altijd mogelijk in overleg.
 Heeft u nog vragen? Neem vrijblijvend contact op! 
 U kunt zich inschrijven via e-mail.   
 
