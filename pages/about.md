@@ -6,7 +6,9 @@ background: /assets/Alpha2.jpg
 ---
 # Even voorstellen
   
-Mijn naam is Astrid en de verschillende honden afgebeeld op de website zijn Darko(kruising Appenzeller Labrador), Fludeau(Poedel), Delta(Herder) en Alpha(Poedel) is onze junior van 2 jaar oud. Delta is een kruising tussen een Hollandse-en Mechelse herder van inmiddels 8 jaar. Ik ben toen ik Delta als pup kreeg meteen gaan zoeken naar een hondenschool. De keuze was groot en ik koos de dichtstbijzijnde, er vanuit gaande dat elke hondenschool het zelfde is in lesstof en manier van omgang met de honden. Dat is helaas niet zo.
+Mijn naam is Astrid en mijn gezin bestaat uit mijn partner, mijzelf en onze 3 honden.
+Alpha een grote Poedel(koningspoedel) van 2 jaar oud, Delta een kruising tussen een Hollandse-en Mechelse herder van inmiddels 8 jaar oud en Dex de dwergpincher van een paar maanden oud. 
+Ik ben toen ik Delta als puppy kreeg meteen gaan zoeken naar een hondenschool. De keuze was groot (we woonde toen nog in Nijmegen) en ik koos de dichtstbijzijnde, er vanuit gaande dat elke hondenschool het zelfde is in lesstof en manier van omgang met de honden. Dat is helaas niet zo.
 
 In Nederland mag iedereen zich hondeninstructeur en/of hondengedragstherapeut noemen. De hondenopvoeding is een vakgebied waarin de laatste jaren veel veranderingen zijn doorgevoerd. En niet voor niets! De ervaring is dat de “ouderwetse” methoden uiteindelijk meer kwaad dan goed doen en het welzijn van de hond hierdoor flink beschadigd. 
 
