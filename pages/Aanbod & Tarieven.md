@@ -35,18 +35,18 @@ Heeft u vragen of bent u benieuwd of we u de juiste begeleiding kunnen bieden? s
 # Tarieven
 
 **Puppy Kickstart**  
-€ 130,- Excl. reiskosten à € 0,28 p/km*
+€ 130,- Excl. reiskosten à € 0,32 p/km*
 
 **Privéles**  
-€ 65,- per uur. Excl. reiskosten à € 0,28 p/km*.  
+€ 65,- per uur. Excl. reiskosten à € 0,32 p/km*.  
 **Privéles pakketten**  
 3 uur voor € 185,-  
 5 uur voor € 300,-  
-Excl. reiskosten à € 0,28 p/km*.
+Excl. reiskosten à € 0,32 p/km*.
 
 **Gedragstherapie aan huis**  
 2,5 uur voor €160,-   
-Excl. reiskosten à € 0,28 p/km*.  
+Excl. reiskosten à € 0,32 p/km*.  
 *Reisafstand wordt berekend via Google Maps
   
 Wij verzoeken u vriendelijk de betaling voor aanvang van de afspraak over te boeken. U ontvangt een factuur via e-mail.
