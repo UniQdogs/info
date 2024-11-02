@@ -7,7 +7,7 @@ background: /assets/Dex.jpg
 # Even voorstellen
   
 Mijn naam is Astrid en mijn gezin bestaat uit mijn partner, onze 3 honden en mijzelf.
-Alpha een grote Poedel - koningspoedel - van 3 jaar oud, Delta een kruising tussen een Hollandse-en Mechelse herder van 9 jaar oud en Dex de Dwergpincher van 9 maanden oud. 
+Alpha een grote Poedel - koningspoedel - van 3 jaar oud, Delta een kruising tussen een Hollandse-en Mechelse herder van 9 jaar oud en Dex de Dwergpincher van bijna 1 jaar oud. 
 
 Ik ben toen ik Delta als puppy kreeg meteen gaan zoeken naar een hondenschool. De keuze was groot (we woonde toen nog in Nijmegen) en ik koos de dichtstbijzijnde, er vanuit gaande dat elke hondenschool het zelfde is in lesstof en manier van omgang met de honden. Dat is helaas niet zo.
 
