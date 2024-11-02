@@ -10,7 +10,7 @@ background: /assets/Fludeau.jpg
 
 
 
-##### Wegens omstandigheden tijdelijk gesloten
+## Wegens omstandigheden tijdelijk gesloten
 
 *De verwachting is om begin december weer op te starten.* 
 
