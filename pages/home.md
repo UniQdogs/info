@@ -12,7 +12,7 @@ background: /assets/Fludeau.jpg
 
 **Wegens omstandigheden tijdelijk gesloten**
 
-*De verwachting is om begin januari weer op te starten.* 
+*Het is nog onduidelijk wanneer we weer open gaan.* 
 
 
 
